@@ -1,5 +1,5 @@
 Chapter 1
-i am Suresh Gowda This is My First Git Project
+i am Suresh Gowda ThIs is My First Git Project
 true
 
 
