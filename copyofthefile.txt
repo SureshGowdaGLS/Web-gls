@@ -1,4 +1,7 @@
-Chapter 1
+=========
+Chapter 2
+=========
+
 i am Suresh Gowda This is My First Git Project
 blue
 pink
